@@ -1,0 +1,25 @@
+{
+  "name": "crud_api_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api.js",
+    "dev": "nodemon api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustAnotherAlexander/CRUD_API_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustAnotherAlexander/CRUD_API_NodeJS/issues"
+  },
+  "homepage": "https://github.com/JustAnotherAlexander/CRUD_API_NodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
